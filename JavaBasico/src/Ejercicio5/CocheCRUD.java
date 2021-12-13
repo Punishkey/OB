@@ -1,4 +1,4 @@
-package JavaBasico.Ejercicio5;
+package Ejercicio5;
 
 public interface CocheCRUD {
     void save();

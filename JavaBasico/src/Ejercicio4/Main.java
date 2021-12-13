@@ -1,4 +1,4 @@
-package JavaBasico.Ejercicio4;
+package Ejercicio4;
 /*
 En este ejercicio tendréis que crear una clase SmartDevice. Dentro crearéis las clases hijas: SmartPhone y SmartWatch.
 

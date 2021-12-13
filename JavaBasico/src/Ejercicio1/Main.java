@@ -1,4 +1,4 @@
-package JavaBasico.Ejercicio1;
+package Ejercicio1;
 
 /*
 Para este primer ejercicio tendréis que realizar lo siguiente:

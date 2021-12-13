@@ -1,4 +1,4 @@
-package JavaBasico.Ejercicio4;
+package Ejercicio4;
 
 public class SmartWatch extends SmartDeviceMotion{
     protected boolean sumersible;

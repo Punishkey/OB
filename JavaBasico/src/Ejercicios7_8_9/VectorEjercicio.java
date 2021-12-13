@@ -1,4 +1,4 @@
-package JavaBasico.Ejercicios7_8_9;
+package Ejercicios7_8_9;
 
 import java.util.Vector;
 

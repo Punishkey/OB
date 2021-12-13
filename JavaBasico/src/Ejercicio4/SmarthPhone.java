@@ -1,4 +1,4 @@
-package JavaBasico.Ejercicio4;
+package Ejercicio4;
 
 public class SmarthPhone extends SmartDeviceMotion{
     protected double inches;
