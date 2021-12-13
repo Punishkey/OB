@@ -1,0 +1,1 @@
+como un vector guarda los datos de forma secuencial, si sobrepasa el valor por defecto duplicaria el tamaño de memoria pudiendo hacer que dicho programa funcionase mas lentamente.
