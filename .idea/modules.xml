@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaAvanzado/JavaAvanzado.iml" filepath="$PROJECT_DIR$/JavaAvanzado/JavaAvanzado.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaBasico/JavaBasico.iml" filepath="$PROJECT_DIR$/JavaBasico/JavaBasico.iml" />
       <module fileurl="file://$PROJECT_DIR$/OB.iml" filepath="$PROJECT_DIR$/OB.iml" />
       <module fileurl="file://$PROJECT_DIR$/OB_Challenge/OB_Challenge.iml" filepath="$PROJECT_DIR$/OB_Challenge/OB_Challenge.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Spring/Spring.iml" filepath="$PROJECT_DIR$/Spring/Spring.iml" />
     </modules>
   </component>
 </project>
