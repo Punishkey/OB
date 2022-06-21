@@ -1,0 +1,25 @@
+/* estilos para colores */
+
+h3{
+    color: red;
+}
+
+.color-hexadecimal{
+    color:#9FB798
+}
+
+.color-rgb{
+    color:rgb(25, 25, 100)
+}
+
+.color-rgba{
+    color: rgba(10, 200, 30, 1);
+}
+
+/* Fondos */
+
+.fondo{
+    background-color: antiquewhite;
+    background-image: url(https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX1948627.jpg);
+    background-position: center center;
+}
