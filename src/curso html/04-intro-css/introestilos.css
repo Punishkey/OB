@@ -23,3 +23,22 @@ h3{
     background-image: url(https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX1948627.jpg);
     background-position: center center;
 }
+
+.ancho {
+    background-color:#BCE784;
+    width: 100px;
+}
+
+.alto {
+    background-color: aquamarine;
+    height: 200px;
+}
+
+.tarjeta{
+    border-style: solid;
+    border-color: rgb(150, 150, 150);
+    border-width: 1px;
+    /*border-top: none;*/
+    padding: 10px 20px;
+    margin: 10px 20px;
+}
