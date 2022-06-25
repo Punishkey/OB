@@ -1,0 +1,57 @@
+div {
+    border: 1px solid gray;
+    padding: 5px;
+    margin: 5px;
+    background-color: white;
+}
+
+
+   /*las propiedades como left, right, up... no 
+    le afecta a static*/
+
+
+    /*posicionamiento relativo - se posiciona en relacion
+    al posicionamiento original */
+.relative {
+    position: relative;
+    left: 80px;
+    margin-left: 10px;
+}
+
+/*posicionamiento fijo - se posiciona en relacion a la ç
+pantalla. Se usan en barras de navegacion */
+
+.fixed {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    background-color: greenyellow;
+    z-index: 10;
+}
+
+/* posicionamiento absoluto - siempre tiene que tener top
+left, right y bottom*/
+.absolute {
+    position: absolute;
+    bottom: 30px;
+    right: 0px;
+}
+
+.relative.contenedor {
+    width: 300px;
+    height: 400px;
+    background-color: blue;
+}
+
+
+/*posicionamiento pegajoso - al hacer scroll modifica su
+posicionamiento relative -> fixed
+Muy comun en usar en menus de navegacion si queremos que
+siempre este arriba */
+.sticky {
+    position: sticky;
+    background-color: darksalmon;
+    color: white;
+    top: 0px;
+    z-index: 2;
+}
